@@ -21,7 +21,7 @@ Update your singleton MonoBehaviour to raise events when it spawns an object and
 * Unity Events: https://docs.unity3d.com/ScriptReference/Events.UnityEvent.htm
 * Singleton: https://en.wikipedia.org/wiki/Singleton_pattern
 
-[![Youtube Tutorial](./Video%20Screenshot.png)](://youtu.be/1N6k7Hj_JKc)
+[![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/1N6k7Hj_JKc)
 
 ## Patreon Supporters
 Have you been getting value out of these tutorials? Do you believe in LlamAcademy's mission of helping everyone make their game dev dream become a reality? Consider becoming a Patreon supporter and get your name added to this list, as well as other cool perks.
